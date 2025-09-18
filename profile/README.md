@@ -59,7 +59,6 @@ What sets Chambers apart is its usability and depth. The interface is responsive
 ## 🖼️ Screenshots
 
 ![Screenshot 1](https://is1-ssl.mzstatic.com/image/thumb/Purple/v4/07/c2/bb/07c2bb77-5c83-a6d4-b277-4d7065ae31c9/mzl.jltfhudu.png/643x0w.jpg)  
-![Screenshot 2](https://static.macupdate.com/screenshots/333355/m/chambers-dictionary-screenshot.png?v=1649831761)
 
 ---
 
